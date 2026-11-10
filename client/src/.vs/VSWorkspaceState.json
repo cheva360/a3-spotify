@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\components",
+    "\\app\\components\\carousel-card",
+    "\\app\\components\\search"
+  ],
+  "SelectedNode": "\\app\\components\\search\\search.component.ts",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\e2e",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\pages",
+    "\\src\\app\\services"
+  ],
+  "SelectedNode": "\\src\\app\\services\\spotify.service.ts",
+  "PreviewInSolutionExplorer": false
+}
