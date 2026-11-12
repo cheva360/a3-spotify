@@ -1,4 +1,4 @@
---Readme document for Sebastian Magana, --
+--Readme document for Sebastian Magana, sebasam3@uci.edu--
                       Khang Vu, khangnv@uci.edu--
 
 1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
@@ -17,16 +17,16 @@
 
 
 3. What online resources did you consult when completing this assignment? (list specific URLs)
-none
+None
 
 
 4. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
-none
+None
 
 
 5. Did you add a bonus feature to your submission? If so, what is it and how should we see it?
-no
+No
 
 
 6. Is there anything special we need to know in order to run your code?
-no
+No
