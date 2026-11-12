@@ -1,5 +1,5 @@
---Readme document for Khang Vu, khangnv@uci.edu--
-                      Sebastian Magana, --
+--Readme document for Sebastian Magana, --
+                      Khang Vu, khangnv@uci.edu--
 
 1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
 
